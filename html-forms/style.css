@@ -1,0 +1,74 @@
+ /* body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+} */
+
+form label{
+  display: block;
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+form input[type="text"]{
+  color: black;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+/* #zip{
+  width: 52px;
+}
+
+form input[type="radio"]+label{
+display: inline;
+}  */
+
+/* form input[type ="checkbox"] + label{
+  display: inline;
+} */
+
+form textarea{
+  display: block;
+font-size: 16px;
+font-family: 'Courier New', Courier, monospace;
+resize: none;
+width: 100%
+}
+
+form button{
+  padding: 3px 10px;
+  background-color: blue;
+  color: white;
+  border: 0;
+  border-radius: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display: inline;
+  margin-right: 200px;
+} 
+
+/* legend{
+  background-color: black;
+  color: white;
+  padding 3px 6px;
+  border-radius: 6px;
+}
+
+fieldset{
+  padding: 10px 12px;
+  margin: 10px;
+  border-radius: 6px;
+  border-style: dotted;
+}
+form button{
+  padding: 3px 10px;
+  background-color: blue;
+  color: white;
+  border: 0;
+  border-radius: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}  */
